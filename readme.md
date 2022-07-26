@@ -15,6 +15,6 @@ In level four, give the user an option to play against the computer or to think 
 
 # How to play
 
-Install Jupyter Notebook on your machine, download this directory, then run the following in this directory to open and execute the files.
+Install Jupyter Notebook on your machine, download this directory, then run the following terminal command in this directory to open and execute the files.
 
 $ jupyter notebook
